@@ -1,4 +1,8 @@
-layout_spectrum: 0.1745363
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.07540503
   brandStrength: 0.8313659
   lightness: 0.2449875
   brandColors:
-    - '#030303'
-    - '#FCFCFC'
-    - '#5C5C5C'
+    - '#FFFFFF'
+    - '#020202'
+    - '#BD1F38'
     - '#CFCFCF'
-    - '#FB030B'
-  rhythmicContrast: 0.937289
+    - '#393939'
+  rhythmicContrast: 0.3872181
 typography_spectrum: 0.6121417
+layout_spectrum: 0.1478697
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: Nice n Sleazy Festival
